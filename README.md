@@ -1,3 +1,12 @@
+## Code Example
+
+Here's a simple Hello World in Python:
+
+```python
+print("Hello, World! I'm Nicca Kate!")
+print("Learning Markdown on GitHub is fun! 🚀")
+
+
 ## My Favorite Image
 
 ![Octocat](https://octodex.github.com/images/Professortocat_v2.png)
