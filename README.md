@@ -1,3 +1,9 @@
+## My Favorite Image
+
+![Octocat](https://octodex.github.com/images/Professortocat_v2.png)
+
+This is the Professor Octocat! 🐙
+
 # Communicate Using Markdown
 
 ## Hello, I'm Nicca Kate! 👋
