@@ -1,16 +1,37 @@
-# Communicate using Markdown
+## My Task List
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [ ] Complete Markdown course
+- [ ] Merge pull request
+- [ ] Create my own GitHub Pages site
 
-Hey NiccaKate!
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+## Code Example
 
-Remember, it's self-paced so feel free to take a break! ☕️
+Here's a simple Hello World in Python:
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/NiccaKate/communicate-using-markdown/issues/1)
+```python
+print("Hello, World! I'm Nicca Kate!")
+print("Learning Markdown on GitHub is fun! 🚀")
 
----
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## My Favorite Image
 
+![Octocat](https://octodex.github.com/images/Professortocat_v2.png)
+
+This is the Professor Octocat! 🐙
+
+# Communicate Using Markdown
+
+## Hello, I'm Nicca Kate! 👋
+
+### About This Exercise
+
+This is where I'm learning how to use **Markdown** effectively on GitHub.
+
+#### What I've Learned So Far
+- Creating different heading levels
+- Formatting text
+- Adding images and lists
